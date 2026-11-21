@@ -1,0 +1,11 @@
+{
+  "org": "dryrust",
+  "repo": "getenv.rs",
+  "versions": [
+    {
+      "commit": "6fafcf5587045ec427a804d3ea3da9b63e0605dd",
+      "tag": "0.1.2",
+      "parsed_at": "2026-11-21T23:27:37.054401+00:00"
+    }
+  ]
+}
