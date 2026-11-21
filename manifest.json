@@ -56,6 +56,19 @@
       ],
       "ast": [
         "aggregate/ast/6fafcf5587045ec427a804d3ea3da9b63e0605dd/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/6fafcf5587045ec427a804d3ea3da9b63e0605dd.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "secrecy",
+          "ecosystem": "CARGO",
+          "version": "0.10.3",
+          "githubOrg": "iqlusioninc",
+          "githubRepo": "crates",
+          "githubUrl": "https://github.com/iqlusioninc/crates/tree/main/secrecy",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/secrecy-0.10.3/src/lib.rs"
+        }
       ]
     }
   ],
